@@ -38,4 +38,5 @@ D:\Nelly\workspace\OpenCV\OpenCV_Card\main.cpp(82,43): warning C4244:         wi
 D:\Nelly\workspace\OpenCV\OpenCV_Card\main.cpp(82,43): warning C4244:         [
 D:\Nelly\workspace\OpenCV\OpenCV_Card\main.cpp(82,43): warning C4244:             _Tp=float
 D:\Nelly\workspace\OpenCV\OpenCV_Card\main.cpp(82,43): warning C4244:         ]
+  LINK : D:\Nelly\workspace\OpenCV\OpenCV_Card\x64\Debug\OpenCV_Card.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
   OpenCV_Card.vcxproj -> D:\Nelly\workspace\OpenCV\OpenCV_Card\x64\Debug\OpenCV_Card.exe

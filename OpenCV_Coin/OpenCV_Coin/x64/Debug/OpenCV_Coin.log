@@ -8,4 +8,5 @@ C:\OpenCV\build\include\opencv2\core.hpp(1743,1): warning C4819: 현재 코드 �
 C:\OpenCV\build\include\opencv2\core.hpp(1743,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
   
+  LINK : D:\Nelly\workspace\OpenCV\OpenCV_Coin\x64\Debug\OpenCV_Coin.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
   OpenCV_Coin.vcxproj -> D:\Nelly\workspace\OpenCV\OpenCV_Coin\x64\Debug\OpenCV_Coin.exe
